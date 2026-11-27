@@ -1,0 +1,28 @@
+# Local measurements and generated participant results
+/RESULTATS/
+/HISTORIAL_RESULTATS/
+/DATA/
+/DADES/
+/data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.mat
+*.fig
+*.agd
+*.agsd
+*.gt3x
+*.slog
+*.log
+*.fsig
+*.zip
+*.exe
+
+# Local MATLAB and operating-system files
+*.asv
+*.m~
+*.autosave
+.DS_Store
+Thumbs.db
+desktop.ini
